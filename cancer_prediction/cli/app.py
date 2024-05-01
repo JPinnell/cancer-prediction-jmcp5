@@ -1,5 +1,4 @@
 import sys
-
 import typer
 from streamlit.web import cli as stcli
 

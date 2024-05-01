@@ -1,6 +1,6 @@
-# Welcome to MkDocs
+# Cancer Prediction
 
-For full documentation visit [mkdocs.org](https://www.mkdocs.org).
+In principle, you just need to run pip install -i https://test.pypi.org/simple/ cancer-prediction-jmcp5
 
 ## Commands
 
@@ -18,5 +18,5 @@ For full documentation visit [mkdocs.org](https://www.mkdocs.org).
 
 
 ## Documentation
-- [cancer-prediction-<suffix>](cancer-prediction-jmcp5/config.md): documentation for functions and classes.
+- [cancer-prediction-jmcp5](cancer-prediction-jmcp5/config.md): documentation for functions and classes.
 - [Code](https://github.com/JPinnell/cancer-prediction-jmcp5)
