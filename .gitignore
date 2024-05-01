@@ -99,10 +99,12 @@ celerybeat.pid
 
 # Environments
 .env
+.secrets
 .venv
 env/
 venv/
 ENV/
+site/
 env.bak/
 venv.bak/
 

@@ -1,0 +1,14 @@
+site_name: Cancer Prediction
+site_url: https://github.com/JPinnell/cancer-prediction-jmcp5
+repo_url: https://github.com/JPinnell/cancer-prediction-jmcp5
+nav:
+  - Home: index.md
+  - About: about.md
+  - cancer-prediction:
+    - cancer model: cancer-prediction/cancer_model.md
+    - streamlit app: cancer-prediction/streamlit_app.md
+theme: readthedocs
+plugins:
+  - mkdocstrings
+watch:
+  - .  # reload docs for file changes
